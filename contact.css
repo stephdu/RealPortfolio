@@ -1,0 +1,27 @@
+.navbar {
+    background-color: darkgrey;
+    opacity: 0.8;
+}
+
+#nav {
+  position: absolute;
+  bottom: 10px;
+  justify-content: center;
+  margin-left: 42%;
+  margin-right: 42%;
+}
+
+.card {
+  position: absolute;
+  margin: auto;
+  margin-top: 20%;
+}
+
+.background-image {
+  background-image: url(https://i.pinimg.com/originals/74/b2/27/74b227d38be4acee4e1140d4b51d1bd5.jpg);
+}
+
+.fab {
+  color: white;
+  font-size: 5em;
+}

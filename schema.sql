@@ -1,0 +1,10 @@
+DROP DATABASE IF EXISTS Stephany;
+CREATE DATABASE Stephany;
+
+\c Stephany
+
+CREATE TABLE contacts(
+  id SERIAL,
+  email VARCHAR UNIQUE NOT NULL,
+  message VARCHAR(1000)
+)

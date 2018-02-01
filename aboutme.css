@@ -1,0 +1,37 @@
+.navbar {
+    background-color: darkgrey;
+    opacity: 0.8;
+}
+
+.landscape {
+    height: 30px;
+    width: 80px;
+}
+
+.background-image {
+  background-image: url(http://cdn.wonderfulengineering.com/wp-content/uploads/2015/05/San-Francisco-Wallpaper-9.jpeg);
+  background-size: cover;
+}
+
+.container {
+  margin-top: 45%;
+}
+
+
+#nav {
+  position: absolute;
+  bottom: 10px;
+  justify-content: center;
+  margin-left: 42%;
+  margin-right: 42%;
+}
+
+p {
+  /* -webkit-text-stroke: 1% black; */
+  color: #DF8544
+}
+
+.text {
+  color: #70BCBF;
+  font-weight: bold;
+}
