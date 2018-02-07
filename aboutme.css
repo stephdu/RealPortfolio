@@ -14,7 +14,7 @@
 }
 
 .container {
-  margin-top: 45%;
+  margin-top: 40%;
 }
 
 
@@ -22,16 +22,23 @@
   position: absolute;
   bottom: 10px;
   justify-content: center;
-  margin-left: 42%;
-  margin-right: 42%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
-p {
+.bio {
   /* -webkit-text-stroke: 1% black; */
-  color: #DF8544
+  color: #F37417;
+  font-size: 28px;
+}
+
+.intro {
+  color: grey;
+  font-size: 20px;
 }
 
 .text {
   color: #70BCBF;
   font-weight: bold;
+  font-size: 60px;
 }

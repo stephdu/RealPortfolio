@@ -14,7 +14,15 @@
 .card {
   position: absolute;
   margin: auto;
-  margin-top: 20%;
+  margin-top: 14%;
+  background-color: grey;
+  opacity: .65;
+}
+
+.contact-picture {
+  border-radius: 50%;
+  width: 55%;
+  height: 55%;
 }
 
 .background-image {
@@ -24,4 +32,17 @@
 .fab {
   color: white;
   font-size: 5em;
+}
+
+.card-name {
+  color: black;
+  font-family: cursive;
+  font-weight: bold;
+  margin-top: 5%;
+  font-size: 50px;
+}
+
+.card-paragraph {
+  color: #17717A;
+  font-size: 20px;
 }
